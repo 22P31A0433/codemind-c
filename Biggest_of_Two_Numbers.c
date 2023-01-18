@@ -12,3 +12,6 @@ int main()
         printf("%d",a);
     }
 }
+
+
+
